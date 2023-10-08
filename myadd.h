@@ -1,0 +1,1 @@
+extern int c_add(int x, int y);
